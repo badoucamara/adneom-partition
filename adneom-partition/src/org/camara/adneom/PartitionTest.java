@@ -1,3 +1,5 @@
+package org.camara.adneom;
+
 import org.junit.Test;
 
 import java.util.ArrayList;

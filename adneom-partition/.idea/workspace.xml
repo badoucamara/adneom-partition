@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="58088d51-3c9e-48ac-9fc1-4974829a30eb" name="Default Changelist" comment="" />
+    <list default="true" id="58088d51-3c9e-48ac-9fc1-4974829a30eb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Partition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/camara/adneom/Partition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PartitionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/camara/adneom/PartitionTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,7 +23,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1gpfU4PtACVr9P6bhaIoTdFexaV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -29,6 +39,7 @@
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
@@ -51,7 +62,7 @@
   </component>
   <component name="RunManager" selected="JUnit.PartitionTest">
     <configuration name="Partition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Partition" />
+      <option name="MAIN_CLASS_NAME" value="org.camara.adneom.Partition" />
       <module name="adneom-partition" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -59,8 +70,8 @@
     </configuration>
     <configuration name="PartitionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="adneom-partition" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="PartitionTest" />
+      <option name="PACKAGE_NAME" value="org.camara.adneom" />
+      <option name="MAIN_CLASS_NAME" value="org.camara.adneom.PartitionTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -68,8 +79,8 @@
     </configuration>
     <configuration name="PartitionTest.testNegativeSize" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="adneom-partition" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="PartitionTest" />
+      <option name="PACKAGE_NAME" value="org.camara.adneom" />
+      <option name="MAIN_CLASS_NAME" value="org.camara.adneom.PartitionTest" />
       <option name="METHOD_NAME" value="testNegativeSize" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -78,8 +89,8 @@
     </configuration>
     <configuration name="PartitionTest.testPartition1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="adneom-partition" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="PartitionTest" />
+      <option name="PACKAGE_NAME" value="org.camara.adneom" />
+      <option name="MAIN_CLASS_NAME" value="org.camara.adneom.PartitionTest" />
       <option name="METHOD_NAME" value="testPartition1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -88,8 +99,8 @@
     </configuration>
     <configuration name="PartitionTest.testPartition2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="adneom-partition" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="PartitionTest" />
+      <option name="PACKAGE_NAME" value="org.camara.adneom" />
+      <option name="MAIN_CLASS_NAME" value="org.camara.adneom.PartitionTest" />
       <option name="METHOD_NAME" value="testPartition2" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -117,7 +128,8 @@
       <option name="presentableId" value="Default" />
       <updated>1598816466084</updated>
       <workItem from="1598816493435" duration="6151000" />
-      <workItem from="1598871994926" duration="6531000" />
+      <workItem from="1598871994926" duration="7515000" />
+      <workItem from="1598880765611" duration="624000" />
     </task>
     <servers />
   </component>
@@ -137,22 +149,22 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="549" y="191" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1598817549612" />
-    <state width="1493" height="223" key="GridCell.Tab.0.bottom" timestamp="1598879368900">
+    <state width="1493" height="223" key="GridCell.Tab.0.bottom" timestamp="1598880353394">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1598879368900" />
-    <state width="1493" height="223" key="GridCell.Tab.0.center" timestamp="1598879368900">
+    <state width="1493" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1598880353394" />
+    <state width="1493" height="223" key="GridCell.Tab.0.center" timestamp="1598880353394">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1598879368900" />
-    <state width="1493" height="223" key="GridCell.Tab.0.left" timestamp="1598879368900">
+    <state width="1493" height="223" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1598880353394" />
+    <state width="1493" height="223" key="GridCell.Tab.0.left" timestamp="1598880353394">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1598879368900" />
-    <state width="1493" height="223" key="GridCell.Tab.0.right" timestamp="1598879368900">
+    <state width="1493" height="223" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1598880353394" />
+    <state width="1493" height="223" key="GridCell.Tab.0.right" timestamp="1598880353394">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1598879368900" />
+    <state width="1493" height="223" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1598880353394" />
     <state x="249" y="11" key="SettingsEditor" timestamp="1598875006969">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
